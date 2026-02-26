@@ -155,7 +155,8 @@ Game results are stored in `Gamesplayed.txt`. You can view past matches from the
 - Input validation is implemented to prevent invalid ship placement and attack positions.
 
 ---
----
+
 
 ## 👨‍💻 Author
 **Muhammad Ibrahim**
+
